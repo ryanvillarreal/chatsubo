@@ -1,10 +1,9 @@
 package main
 
 /* 
- Man I really don't know. 
  command --->>>> server --->>>> implant
 
- I guess this will be the server first
+ I guess this will be the main
 */ 
 
 import (
